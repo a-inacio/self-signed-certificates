@@ -1,0 +1,7 @@
+== Self signed certificates
+
+Simple generation of a Root CA and Certificate from a request.
+
+== Usage
+
+Run `docker compose up` and the files will be output to `data`.

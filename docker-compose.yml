@@ -1,0 +1,7 @@
+services:
+  self-signed-certificates:
+    build: .
+    env_file:
+      - dev.env
+    volumes:
+      - ./data:/data
