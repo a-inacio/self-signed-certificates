@@ -1,0 +1,4 @@
+== Ouput folder
+
+[IMPORTANT]
+Files will not be ovewriten, if you want to regenerate manual delete first.
