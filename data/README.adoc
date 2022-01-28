@@ -1,4 +1,4 @@
 == Ouput folder
 
 [IMPORTANT]
-Files will not be ovewriten, if you want to regenerate manual delete first.
+To prevent data loss files will not be overwritten, if you want to regenerate manual delete the certificates first.
